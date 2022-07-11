@@ -1,4 +1,4 @@
-# Crud de uma loja de bicicleta | Spring Boot | Angular
+# Crud loja de bicicleta | Spring Boot | Angular
 
 ## Projeto
 
